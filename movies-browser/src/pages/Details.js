@@ -5,7 +5,7 @@ const Details = () => {
     return (
         <div className ="details">
             <Navigation />
-            <h2>wow</h2>
+            <h2>Details</h2>
         </div>
     )
 }
